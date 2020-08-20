@@ -19,7 +19,7 @@
 </a>
 
 <a href="https://github.com/adar2378">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=adar2378&show_icons=false&theme=light&line_height=40&title_color=7221ff"
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=adar2378&show_icons=false&theme=light&line_height=40&title_color=7221ff&count_private=true"
 </a>
 
 <a href="https://github.com/adar2378/pin_code_fields">
