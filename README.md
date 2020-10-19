@@ -6,6 +6,8 @@
   - Stackoverflow: [saiful-islam-adar](https://stackoverflow.com/users/4158349/saiful-islam-adar)
   - Youtube: [My flutter related videos](https://www.youtube.com/watch?v=p97wuh1J6Fc&list=PLSzAduAyNr2VcGPTWgZ2xkQt18EQOFb-f)
   - Mail: `saifulislamadar@gmail.com`
+  
+  How do I code? https://github.com/adar2378/hacker_news follow this sample project.
 
 - ⚡ Fun fact: Video game addict, techie
 
