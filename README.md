@@ -1,7 +1,8 @@
-### Hey, This is [Adar](http://theadar.xyz) 👋
+### Hey, This is [Adar](https://theadar.xyz) 👋
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning React, Express JS
+- 🌱 Open to new opportunities
 - 📫 Contact me via:
   - Stackoverflow: [saiful-islam-adar](https://stackoverflow.com/users/4158349/saiful-islam-adar)
   - Youtube: [My flutter related videos](https://www.youtube.com/watch?v=p97wuh1J6Fc&list=PLSzAduAyNr2VcGPTWgZ2xkQt18EQOFb-f)
@@ -28,6 +29,6 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=adar2378&repo=pin_code_fields&theme=light&title_color=0084ff" />
 </a>
 
-<a href="https://github.com/adar2378/draggable_widget">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=adar2378&repo=draggable_widget&theme=light&title_color=0084ff" />
+<a href="https://github.com/adar2378/tab_indicator_styler">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=adar2378&repo=tab_indicator_styler&theme=light&title_color=0084ff" />
 </a>
