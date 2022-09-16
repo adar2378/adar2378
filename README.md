@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning React, Express JS
-- 🌱 Actively looking for a new opportunity. 
 - 📫 Contact me via:
   - Stackoverflow: [saiful-islam-adar](https://stackoverflow.com/users/4158349/saiful-islam-adar)
   - Youtube: [My flutter related videos](https://www.youtube.com/watch?v=p97wuh1J6Fc&list=PLSzAduAyNr2VcGPTWgZ2xkQt18EQOFb-f)
