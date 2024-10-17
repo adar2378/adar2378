@@ -1,5 +1,5 @@
 # Hey, I'm Adar! 👋
-
+![](https://komarev.com/ghpvc/?username=adar2378e&color=blue)
 - 🔗 **Lead Software Engineer** with 6 years of professional experience, focusing on **Flutter** and cross-platform mobile development.
 - 🔧 Currently working at [Apexive](https://github.com/djangoflow), building scalable, high-performing apps and leading innovation-driven teams.
 - 🌱 Always learning: **React**, **Express.js**, and exploring other tech stacks to grow as a versatile full-stack developer.
